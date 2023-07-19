@@ -198,7 +198,10 @@ my_list.reverse()
 print(my_list)  # Output: [6, 5, 3, 2, 1, 0]
 ```
 
-These are just a few examples of list methods. There are many more available to manipulate and operate on lists in Python [Here](https://www.w3schools.com/python/python_lists.asp).
+These are just a few examples of list methods. There are many more available to manipulate and operate on lists in Python.
+- [Here](https://www.w3schools.com/python/python_lists.asp).
+- [Python List Addition Lecture](https://drive.google.com/file/d/1TybPvjiwkOsZFTTC1jctBnYxJcrWNjoN/view?usp=sharing)
+
 
 ## 4. Python's Built-in Functions
 
@@ -289,22 +292,27 @@ sorted_list = sorted(my_list)
 print("Sorted list: " + str(sorted_list))
 ```
 
-These are just a few examples of Python's built-in functions. There are many more available, each serving a specific purpose and providing useful functionality [Here](https://www.w3schools.com/python/python_ref_functions.asp). 
+These are just a few examples of Python's built-in functions. There are many more available, each serving a specific purpose and providing useful functionality.
+- [Here](https://www.w3schools.com/python/python_ref_functions.asp)
+- [Built-in-functions in Python Addtional Lecture](https://drive.google.com/file/d/1f4phyqO1Ybtk-u3WiGsyBhJSf7XfL0rf/view?usp=sharing)
 
 
 # Resources
 
-Share additional resources, such as articles, research papers, tutorials, or videos, that students can explore to deepen their understanding of the topic. Provide brief descriptions or key takeaways for each resource.
+This resource contains the official lecture file for the topic, providing detailed explanations, examples, and exercises to enhance your understanding of the subject matter. It serves as a comprehensive guide for the concepts covered in the lecture.
 
-- Resource 1: Description of the resource.
-- Resource 2: Description of the resource.
+- [Resource 1: Official Lecture File](https://drive.google.com/file/d/1CnlX3HY83BnoLYMmcj4OTdJLr5vTpTd-/view?usp=sharing)
 
 # Challenges and Exercises
 
-Include optional challenges or exercises related to the topic to encourage students to practice and apply what they have learned. Provide clear instructions or problem statements.
+Below are some optional challenges and exercises related to the topic. These tasks are designed to encourage students to practice and apply what they have learned. Clear instructions or problem statements are provided for each challenge. Feel free to attempt these challenges to further enhance your understanding and skills.
 
-- Challenge 1: Description of the challenge.
+- Challenge 1: [Official Activity Exercise.](https://drive.google.com/file/d/15HaZCPJu6P4ZxaZVJKIxJdKX9Ck54om8/view?usp=sharing)
 - Challenge 2: Description of the challenge.
+
+Take your time to work on these challenges, and feel free to ask questions or seek help if needed. Practice is key to mastering the concepts covered in the class, and these challenges provide an opportunity to apply your knowledge and gain hands-on experience.
+
+Happy coding and enjoy the challenges!
 
 Feel free to ask questions and discuss any difficulties you encounter while working on the challenges. The GitHub repository's Issues section is a great place for open discussions.
 
