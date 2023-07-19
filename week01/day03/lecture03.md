@@ -130,6 +130,7 @@ finally:
 ```
 
 These examples provide a basic understanding of File Handling in Python. Remember to handle exceptions, close files properly, and consider security aspects when dealing with sensitive data. [Reference](https://www.w3schools.com/python/python_file_handling.asp)
+- [File I/O Exercise](https://github.com/asadjalbani/datasciencebootcamp2023/blob/main/week01/day03/file_io_exercise.md)
 
 ## 3. Lists in Python
 
@@ -201,6 +202,7 @@ print(my_list)  # Output: [6, 5, 3, 2, 1, 0]
 These are just a few examples of list methods. There are many more available to manipulate and operate on lists in Python.
 - [Here](https://www.w3schools.com/python/python_lists.asp).
 - [Python List Addition Lecture](https://drive.google.com/file/d/1TybPvjiwkOsZFTTC1jctBnYxJcrWNjoN/view?usp=sharing)
+- [List Exercise](https://github.com/asadjalbani/datasciencebootcamp2023/blob/main/week01/day03/listexercise.md)
 
 
 ## 4. Python's Built-in Functions
@@ -308,7 +310,8 @@ This resource contains the official lecture file for the topic, providing detail
 Below are some optional challenges and exercises related to the topic. These tasks are designed to encourage students to practice and apply what they have learned. Clear instructions or problem statements are provided for each challenge. Feel free to attempt these challenges to further enhance your understanding and skills.
 
 - Challenge 1: [Official Activity Exercise.](https://drive.google.com/file/d/15HaZCPJu6P4ZxaZVJKIxJdKX9Ck54om8/view?usp=sharing)
-- Challenge 2: Description of the challenge.
+- Challenge 2: [File Handling Exercise](https://github.com/asadjalbani/datasciencebootcamp2023/blob/main/week01/day03/file_io_exercise.md)
+- Challenge 3: [List Exercise](https://github.com/asadjalbani/datasciencebootcamp2023/blob/main/week01/day03/listexercise.md)
 
 Take your time to work on these challenges, and feel free to ask questions or seek help if needed. Practice is key to mastering the concepts covered in the class, and these challenges provide an opportunity to apply your knowledge and gain hands-on experience.
 
@@ -321,6 +324,8 @@ Looking forward to your engagement and success in mastering data science concept
 ## Connect with Me
 
 You can find me on the following social media platforms:
+
+# Asad Ahmed Jalbani 
 
 - LinkedIn: [Asad Ahmed](https://www.linkedin.com/in/yourprofile)
 - Twitter: [@AsadJalbani007](https://twitter.com/AsadJalbani007)
