@@ -333,6 +333,5 @@ You can find me on the following social media platforms:
 
 Feel free to connect with me on these platforms. I'm open to discussions, collaborations, and sharing insights related to the topic. Let's stay connected and continue our learning journey together!
 
-Feel free to customize the template further to include other social media platforms or any additional information you'd like to share.
 
 Happy connecting and networking!
