@@ -316,14 +316,18 @@ Happy coding and enjoy the challenges!
 
 Feel free to ask questions and discuss any difficulties you encounter while working on the challenges. The GitHub repository's Issues section is a great place for open discussions.
 
-# Additional Notes
-
-Add any additional notes, tips, or clarifications related to the topic or class content.
-
-# Feedback and Questions
-
-Encourage students to provide feedback, ask questions, or share their thoughts about the class content. Remind them of the available communication channels, such as Slack, email, or scheduled Q&A sessions.
-
 Looking forward to your engagement and success in mastering data science concepts!
 
-[Asad Ahmed Jalbani]
+## Connect with Me
+
+You can find me on the following social media platforms:
+
+- LinkedIn: [Asad Ahmed](https://www.linkedin.com/in/yourprofile)
+- Twitter: [@AsadJalbani007](https://twitter.com/AsadJalbani007)
+- Facebook: [Asad Bin Khalique](https://www.facebook.com/asadahmed.jalbani.1)
+
+Feel free to connect with me on these platforms. I'm open to discussions, collaborations, and sharing insights related to the topic. Let's stay connected and continue our learning journey together!
+
+Feel free to customize the template further to include other social media platforms or any additional information you'd like to share.
+
+Happy connecting and networking!
