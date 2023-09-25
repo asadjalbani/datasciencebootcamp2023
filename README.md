@@ -34,7 +34,7 @@ We encourage active participation and collaboration within this repository. Feel
 ## Stay Connected With Me
 Connect with me on social media, stay up-to-date with the latest news, and continue learning even after the bootcamp concludes:
 - LinkedIn: [Asad Ahmed](https://www.linkedin.com/in/asad-ahmed-jalbani/)
-- Twitter: [@Asad Jalbani](https://twitter.com/MetaPiTech)
+- Twitter: [@Asad Jalbani](https://twitter.com/asad_codes)
 
 ## Bootcamp Resources 
 - Google Drive: [Resources](https://drive.google.com/drive/folders/1RQ_-PVW0OZvsjYWs1mp2laeykPQFKh4-?usp=drive_link)
